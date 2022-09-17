@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plutoichor&label=Profile%20views&color=0e75b6&style=flat" alt="plutoichor" /> </p>
 
-- 🔭 I’m currently working on [Attence](https://github.com/PlutoIchor/Attence)
+- 🔭 I’m currently working on [Portfolio](https://github.com/PlutoIchor/TailwindCSS)
 
 - 🌱 I’m currently learning **Laravel, Tailwind, Javascript, Python**
 

@@ -1,13 +1,13 @@
-# Hi, I'm Fajar 👋
+# Selamat Datang di page Saya 👋
 
-## 📌 About
-Hi, I'm Muhamad Fajar, also known as Fajarnadril. I specialize in XR development, visual design, research, and teaching. I've created various educational apps for institutions and state-owned enterprises, highlighting my skills in XR and visual design.  
+## 📌 About Me
+Hello! I'm Christian Dimas Sidauruk, usually called Christian or Dimas. I'm an undergraduate student at Binus University, majoring in Game Application and Technology, and based in Jakarta, Indonesia. I have a long-standing passion for game development, especially game design and programming, and am constantly improving myself in both skills and knowledge.
 
-I'm passionate about immersive technology, especially XR applications. I develop training and simulation apps for health and safety, educational applications, and engaging immersive marketing content.  
-
-📧 **Email:** [hi@fajar.io](mailto:hi@fajar.io)
-
----
+## ⚙️ Skills
+- 👨‍💻C# Unity Game Development
+- ✍️Game Design
+- 🎨2D Pixelated Game Art
+- 🖥️HTML, CSS, PHP (Laravel) Web Development
 
 ## 🚀 Projects
 

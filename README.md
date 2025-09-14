@@ -1,4 +1,4 @@
-# Selamat Datang di page Saya 👋
+# Welcome to my page 👋
 
 ## 📌 About Me
 Hello! I'm Christian Dimas Sidauruk, usually called Christian or Dimas. I'm an undergraduate student at Binus University, majoring in Game Application and Technology, and based in Jakarta, Indonesia. I have a long-standing passion for game development, especially game design and programming, and am constantly improving myself in both skills and knowledge.
@@ -14,13 +14,13 @@ Hello! I'm Christian Dimas Sidauruk, usually called Christian or Dimas. I'm an u
 <table>
 <tr>
 <td width="50%">
-<h3>Project Stir</h3>
-<img src="https://via.placeholder.com/400x220" alt="Project Stir Screenshot"/>
+<h3>Catch The Odds</h3>
+<img src="https://via.placeholder.com/400x220" alt="Catch The Odds Gameplay"/>
 <p>
-ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.
+Catch The Odds is a falling object catcher type of game where you must catch the odd-sided polygons falling from above, where the game gradually gets faster and faster, while maintaining control of the player. I did this project solo, so I'm responsible for the game design, art, and the programming side. 
 </p>
 <p>
-<a href="#">🔗 Read More</a> | <a href="#">🎬 Trailer</a>
+Project Link: <a href="#">click here</a>
 </p>
 </td>
 

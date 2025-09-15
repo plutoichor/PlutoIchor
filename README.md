@@ -36,8 +36,6 @@ Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with 
 </td>
 </tr>
 
-&nbsp;
-
 <tr>
 <td width="50%">
 <h3>Catch The Odds</h3>

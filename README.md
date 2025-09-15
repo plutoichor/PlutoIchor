@@ -24,6 +24,8 @@ Project Link: <a href="#">click here</a>
 </p>
 </td>
 
+<br>
+
 <td width="50%">
 <h3>Blappy Fird</h3>
 <img src="https://via.placeholder.com/400x220" alt="Blappy Fird Gameplay"/>

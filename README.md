@@ -25,10 +25,10 @@ Project Link: <a href="https://github.com/plutoichor/Catch-The-Odds.git">click h
 </td>
   
 <td width="50%">
-<h3 align="center">**Blappy Fird**</h3>
-<img src="https://via.placeholder.com/400x220" alt="Blappy Fird Gameplay"/>
+<h3 align="center">Blappy Fird</h3>
+<img src="https://github.com/user-attachments/assets/8c244405-0ae4-4070-bdee-7ac5a1d5d319" alt="Blappy Fird Gameplay" width="500"/>
 <p>
-Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day.
+Yapping
 </p>
 <p>
 Project Link: <a href="https://github.com/plutoichor/Blappy-Fird.git">click here</a>

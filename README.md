@@ -13,7 +13,7 @@ Hello! I'm Christian Dimas Sidauruk, usually called Christian or Dimas. I'm an u
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
   <h3 align="center">Catch The Odds</h3>
   <p align="center">
     <img src="https://github.com/user-attachments/assets/1b860f2e-2e7c-4302-a4ab-2ecd5d4457ec" 
@@ -30,7 +30,7 @@ Hello! I'm Christian Dimas Sidauruk, usually called Christian or Dimas. I'm an u
   </p>
 </td>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
   <h3 align="center">Blappy Fird</h3>
   <p align="center">
     <img src="https://github.com/user-attachments/assets/8c244405-0ae4-4070-bdee-7ac5a1d5d319" 

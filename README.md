@@ -23,9 +23,7 @@ Catch The Odds is a falling object catcher type of game where you must catch the
 Project Link: <a href="#">click here</a>
 </p>
 </td>
-
-<br></br>
-
+  
 <td width="50%">
 <h3>Blappy Fird</h3>
 <img src="https://via.placeholder.com/400x220" alt="Blappy Fird Gameplay"/>

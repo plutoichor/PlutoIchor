@@ -24,7 +24,7 @@ Project Link: <a href="#">click here</a>
 </p>
 </td>
 
-<br>
+<br></br>
 
 <td width="50%">
 <h3>Blappy Fird</h3>

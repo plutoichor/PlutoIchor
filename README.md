@@ -37,8 +37,7 @@ Hello! I'm Christian Dimas Sidauruk, usually called Christian or Dimas. I'm an u
          alt="Blappy Fird Gameplay" width="400" height="225"/>
   </p>
   <p>
-    Blappy Fird is a parody game inspired by Flappy Bird. You navigate through obstacles while maintaining 
-    precise control of the character. I made this project to practice pixel art and game physics programming.
+    Yada yada Yada yadaYada yada Yada yadaYada yadaYada yadaYada yadaYada yadaYada yadaYada yadaYada yadaYada yadaYada yadaYada yadaYada yadaYada yada
   </p>
   <p>
     Project Link: <a href="https://github.com/plutoichor/Blappy-Fird.git">click here</a>
